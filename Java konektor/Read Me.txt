@@ -1,3 +1,0 @@
-Downloadati mysql-connector-j-8.0.32.jar iz mape Java konektor.
-U Eclipseu kliknuti desni klik na projekt -> buildpath -> configure build path -> kliknuti modulepath -> add external jar.
-Povezati sa datotekom mysql-connector-j-8.0.32.jar gdje ste je spremili na svom računalu. 
