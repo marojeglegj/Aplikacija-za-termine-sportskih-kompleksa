@@ -1,0 +1,1 @@
+U direktoriju src nalazi se datoteka db_config.properties u kojoj se mogu mijenjati podaci za prijavu na bazu.
