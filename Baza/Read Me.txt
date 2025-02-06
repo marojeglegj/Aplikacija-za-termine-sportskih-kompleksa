@@ -1,0 +1,2 @@
+Za korištenje MySQL Connector/J(verzija 8.0.32) potrebna je verzija baze MySQL 8.0.
+Na serveru je potrebno kreirati bazu podataka pod nazivom 'termini' i u njoj izvršiti datoteku 'termini.sql'.
