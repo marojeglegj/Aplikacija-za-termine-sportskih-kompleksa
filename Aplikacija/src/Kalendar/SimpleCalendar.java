@@ -179,7 +179,7 @@ public class SimpleCalendar extends JFrame { // Definicija klase koja nasljeđuj
     }
 
     private void showTimeSelection(int day) {
-        JFrame timeFrame = new JFrame("Odabir termina za " + day + ". " + (months[currentDate.getMonthValue()-1]));
+        JFrame timeFrame = new JFrame("Odabir termina za " + day + ". " + (months[currentDate.getMonthValue()-1])+", "+(String)kompleksComboBox.getSelectedItem()+", "+(String)hallComboBox.getSelectedItem());
         timeFrame.setSize(600, 800);
         timeFrame.setLayout(new BorderLayout());
         timeFrame.setBackground(new Color(153,255,204));
