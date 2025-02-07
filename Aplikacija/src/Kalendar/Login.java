@@ -79,7 +79,7 @@ public class Login extends JFrame{
 					return true;
 				}
 			else {
-				JOptionPane.showMessageDialog(this, "Krivi korisnik ili lozinka","Greška",JOptionPane.INFORMATION_MESSAGE);
+				JOptionPane.showMessageDialog(this, "Krivi korisnik ili lozinka","Obavijest",JOptionPane.INFORMATION_MESSAGE);
 				return false;
 			}
 		}
